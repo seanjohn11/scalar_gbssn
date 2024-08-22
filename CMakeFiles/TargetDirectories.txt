@@ -1,0 +1,10 @@
+/home/sean/scalar_field/gbssn/CMakeFiles/scalar_field_engine.dir
+/home/sean/scalar_field/gbssn/CMakeFiles/run.dir
+/home/sean/scalar_field/gbssn/CMakeFiles/debug.dir
+/home/sean/scalar_field/gbssn/CMakeFiles/release.dir
+/home/sean/scalar_field/gbssn/CMakeFiles/runclean.dir
+/home/sean/scalar_field/gbssn/CMakeFiles/distclean.dir
+/home/sean/scalar_field/gbssn/CMakeFiles/strip_comments.dir
+/home/sean/scalar_field/gbssn/CMakeFiles/info.dir
+/home/sean/scalar_field/gbssn/CMakeFiles/edit_cache.dir
+/home/sean/scalar_field/gbssn/CMakeFiles/rebuild_cache.dir

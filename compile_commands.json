@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/sean/scalar_field/gbssn",
+  "command": "/usr/bin/c++ -DDEBUG -isystem /usr/local/include/deal.II/bundled -isystem /usr/lib/x86_64-linux-gnu/openmpi/include -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -isystem /usr/local/p4est/FAST/include -pedantic -Wall -Wextra -Wmissing-braces -Woverloaded-virtual -Wpointer-arith -Wsign-compare -Wsuggest-override -Wswitch -Wsynth -Wwrite-strings -Wno-placement-new -Wno-deprecated-declarations -Wno-literal-suffix -Wno-psabi -Wno-class-memaccess -Wno-unused-local-typedefs -fopenmp-simd -O0 -ggdb -Wa,--compress-debug-sections -o CMakeFiles/scalar_field_engine.dir/scalar_field_engine.cc.o -c /home/sean/scalar_field/gbssn/scalar_field_engine.cc",
+  "file": "/home/sean/scalar_field/gbssn/scalar_field_engine.cc"
+}
+]
